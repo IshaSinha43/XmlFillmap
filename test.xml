@@ -1,0 +1,1 @@
+<objects><object clsid="SceneObject" name="Background" type="object" id="{46AEFCE4-FBE7-4DD6-8C4C-7653CB988C2C}"><params><param numkey="-1" interpolator="NULL" type="STRING" name="name">Background</param><param numkey="-1" interpolator="NULL" type="texture" name="texturenodeid"></param></params></object></objects>
